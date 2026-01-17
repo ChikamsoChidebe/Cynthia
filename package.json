@@ -1,0 +1,25 @@
+{
+  "name": "cynthia-umeh-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Cynthia Umeh - Product Manager & Customer Service Representative",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "portfolio",
+    "product-manager",
+    "customer-service",
+    "web-development",
+    "responsive-design"
+  ],
+  "author": "Cynthia Umeh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cynthiaumeh/portfolio"
+  },
+  "homepage": "https://cynthia-umeh-portfolio.vercel.app"
+}
