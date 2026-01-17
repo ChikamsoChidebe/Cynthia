@@ -134,7 +134,6 @@ body {
 /* Hero Section */
 .hero {
     min-height: 100vh;
-    padding-top: 10rem;
     display: flex;
     align-items: center;
     background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
@@ -1202,6 +1201,9 @@ body {
         transition: 0.3s;
         box-shadow: var(--shadow-lg);
         padding: 2rem 0;
+    }
+    .hero{
+        padding-top: 5rem;
     }
     
     .nav-menu.active {
